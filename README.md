@@ -1,6 +1,10 @@
 Bathroom Status Dashboard
 
-A simple Python/Flask web app that shows live bathroom availability based on a school bell schedule.Bathrooms are automatically marked CLOSED during the first and last 15 minutes of class, and OPEN during all other times (passing periods, breaks, lunch, and mid-class windows).
+This project is a lightweight, offline-friendly web dashboard for schools to display bathroom availability in real time. Built with Flask, it shows a live clock, current status (OPEN/CLOSED), next change time, and daily open windows. An admin panel (PIN-protected) allows schedules to be edited directly in the browser or uploaded via CSV, making it simple to adapt to bell changes without touching code.
+
+Designed to run on a Mac (or any computer with Python) and displayed on a Chromebook in kiosk mode for students and staff.
+
+Bathrooms are automatically marked CLOSED during the first and last 15 minutes of class, and OPEN during all other times (passing periods, breaks, lunch, and mid-class windows).
 
 Designed to run on a Mac (or any computer with Python) and be displayed on a Chromebook or other device in kiosk mode.
 
