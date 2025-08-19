@@ -1,0 +1,108 @@
+{
+  "monday": [
+    {
+      "label": "Period 2",
+      "is_class": 1,
+      "start": "08:10",
+      "end": "08:48"
+    },
+    {
+      "label": "Period 3",
+      "is_class": 1,
+      "start": "08:52",
+      "end": "09:30"
+    },
+    {
+      "label": "Nutrition Break",
+      "is_class": 0,
+      "start": "09:30",
+      "end": "09:38"
+    },
+    {
+      "label": "Period 4",
+      "is_class": 1,
+      "start": "09:40",
+      "end": "10:18"
+    },
+    {
+      "label": "Period 5",
+      "is_class": 1,
+      "start": "10:22",
+      "end": "11:00"
+    },
+    {
+      "label": "Lunch",
+      "is_class": 0,
+      "start": "11:05",
+      "end": "11:35"
+    },
+    {
+      "label": "Period 6",
+      "is_class": 1,
+      "start": "11:40",
+      "end": "12:18"
+    },
+    {
+      "label": "Period 7",
+      "is_class": 1,
+      "start": "12:22",
+      "end": "13:00"
+    }
+  ],
+  "tue-fri": [
+    {
+      "label": "Study Skills/ELD",
+      "is_class": 1,
+      "start": "08:10",
+      "end": "08:40"
+    },
+    {
+      "label": "Period 2",
+      "is_class": 1,
+      "start": "08:45",
+      "end": "09:35"
+    },
+    {
+      "label": "Period 3",
+      "is_class": 1,
+      "start": "09:40",
+      "end": "10:30"
+    },
+    {
+      "label": "Nutrition Break",
+      "is_class": 0,
+      "start": "10:35",
+      "end": "10:40"
+    },
+    {
+      "label": "Period 4",
+      "is_class": 1,
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "label": "Period 5",
+      "is_class": 1,
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "label": "Lunch",
+      "is_class": 0,
+      "start": "12:35",
+      "end": "13:05"
+    },
+    {
+      "label": "Period 6",
+      "is_class": 1,
+      "start": "13:10",
+      "end": "14:00"
+    },
+    {
+      "label": "Period 7",
+      "is_class": 1,
+      "start": "14:05",
+      "end": "14:55"
+    }
+  ]
+}
